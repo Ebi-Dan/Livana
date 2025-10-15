@@ -38,9 +38,12 @@ export default function AboutSection() {
             <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold text-foreground mb-6 text-balance">
               Why Choose Laviva?
             </h2>
-            <p className="text-lg md:text-xl text-muted-foreground mb-8 leading-relaxed text-pretty">
-              At Laviva, we're committed to bringing you the finest soya beans that nature has to offer. Our dedication
-              to quality, sustainability, and nutrition sets us apart in the industry.
+            <p className="text-lg md:text-xl text-muted-foreground mb-8 leading-relaxed text-pretty">  
+At LIVANA, we believe nourishment should be simple, wholesome, and accessible to everyone. That's why we created Livana Soyabeans Powder , a protein-rich, plant-powered meal made from carefully selected soybeans, processed to retain nature's goodness in every scoop.
+From a passion for healthy living and affordable nutrition, Livana is more than just a product, it's a promise. A promise to support growing children, health-conscious individuals, and wellness enthusiasts with a balanced source of strength and vitality.
+Every pack of Livana carries the warmth of nature, the care of our hands, and joy of knowing you are nourishing your body the right way. Whether stirred into a breakfast drink, blended in smoothies, or added to your favourite recipes, Livana brings natural protein, smooth taste, and everyday wellness to your table.
+
+ Livana - Wholesome Care for Every Home
             </p>
 
             <div className="space-y-6">

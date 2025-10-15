@@ -1,3 +1,4 @@
+
 export default function Footer() {
   return (
     <footer className="bg-foreground text-background py-12 md:py-16">
@@ -9,7 +10,7 @@ export default function Footer() {
               <div className="w-10 h-10 bg-background rounded-lg flex items-center justify-center">
                 <span className="text-foreground font-bold text-lg">L</span>
               </div>
-              <span className="text-2xl font-bold">Laviva</span>
+              <span className="text-2xl font-bold">Livana</span>
             </div>
             <p className="text-background/80 leading-relaxed">
               Premium quality soya beans for a healthier, sustainable future.
@@ -58,7 +59,7 @@ export default function Footer() {
           <div>
             <h4 className="text-lg font-bold mb-4">Contact Us</h4>
             <ul className="space-y-2">
-              <li className="text-background/80">Email: info@laviva.com</li>
+              <li className="text-background/80">Email: Livanalivana348@gmail.com</li>
               <li className="text-background/80">Phone: +234 906 461 2051</li>
               <li className="text-background/80">Address: 126 Egbu Road, Owerri</li>
             </ul>
@@ -67,7 +68,7 @@ export default function Footer() {
 
         {/* Bottom Bar */}
         <div className="border-t border-background/20 mt-8 pt-8 text-center">
-          <p className="text-background/80">© {new Date().getFullYear()} Laviva. All rights reserved.</p>
+          <p className="text-background/80">© {new Date().getFullYear()} Livana. All rights reserved.</p>
         </div>
       </div>
     </footer>
