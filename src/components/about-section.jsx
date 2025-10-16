@@ -36,7 +36,7 @@ export default function AboutSection() {
           {/* Content */}
           <div>
             <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold text-foreground mb-6 text-balance">
-              Why Choose Laviva?
+              Why Choose Livana?
             </h2>
             <p className="text-lg md:text-xl text-muted-foreground mb-8 leading-relaxed text-pretty">  
 At LIVANA, we believe nourishment should be simple, wholesome, and accessible to everyone. That's why we created Livana Soyabeans Powder , a protein-rich, plant-powered meal made from carefully selected soybeans, processed to retain nature's goodness in every scoop.

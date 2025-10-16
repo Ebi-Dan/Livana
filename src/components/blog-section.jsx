@@ -46,7 +46,7 @@ export default function BlogSection() {
         {/* Section Header */}
         <div className="text-center mb-12 md:mb-16">
           <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold text-foreground mb-4 text-balance">
-            From Laviva Insights
+            From Livana Insights
           </h2>
           <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto text-pretty leading-relaxed">
             Discover the latest stories, tips, and insights about sustainable farming, nutrition, and the world of soya

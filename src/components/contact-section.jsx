@@ -19,7 +19,7 @@ export default function ContactSection() {
               <HiMail className="w-6 h-6 text-primary-foreground" />
             </div>
             <h3 className="text-lg font-semibold text-foreground mb-2">Email Us</h3>
-            <p className="text-muted-foreground">info@laviva.com</p>
+            <p className="text-muted-foreground">Livanalivana348@gmail.com</p>
           </div>
 
           <div className="flex flex-col items-center text-center p-6 bg-muted/30 rounded-2xl">
